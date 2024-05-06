@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "iq_questions",
+    "slug": "iq_questions",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.isfandiyor.iq_questions"
+    },
+    "web": {
+      "favicon": "./logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ad0dd3e5-47f1-40fd-bcf4-98a924f404ef"
+      }
+    }
+  }
+}
