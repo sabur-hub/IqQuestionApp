@@ -13,7 +13,7 @@ git clone https://github.com/sabur-hub/IqQuestionApp.git
 ```
 # Перейдите в каталог проекта:
 
-```cd react-native-quiz```
+```cd IqQuestionApp```
 # Установите зависимости:
 ```
 npm install
