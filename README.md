@@ -9,7 +9,7 @@
 Клонируйте репозиторий на свой компьютер:
 
 ```
-git clone https://github.com/yourusername/react-native-quiz.git
+git clone https://github.com/sabur-hub/IqQuestionApp.git
 ```
 # Перейдите в каталог проекта:
 
